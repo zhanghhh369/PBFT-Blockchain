@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"time"
 
-	"PBFT-Blockchain/consensus"
+	"github.com/zhanghhh369/PBFT-Blockchain/consensus"
 )
 
 type Node struct {
