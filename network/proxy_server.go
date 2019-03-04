@@ -2,7 +2,7 @@ package network
 
 import (
 	"net/http"
-	"PBFT-Blockchain/consensus"
+	"github.com/zhanghhh369/PBFT-Blockchain/consensus"
 	"encoding/json"
 	"fmt"
 	"bytes"
