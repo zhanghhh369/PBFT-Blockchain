@@ -2,7 +2,7 @@ package network
 
 import (
 	"fmt"
-	"PBFT-Blockchain/consensus"
+	"github.com/zhanghhh369/PBFT-Blockchain/consensus"
 )
 
 func LogMsg(msg interface{}) {
