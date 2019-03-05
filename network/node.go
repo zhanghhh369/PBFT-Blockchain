@@ -43,10 +43,10 @@ func NewNode(nodeID string) *Node {
 		// Hard-coded for test.
 		NodeID: nodeID,
 		NodeTable: map[string]string{
-			"Node1": "172.31.38.238:1111",
-			"Node2": "172.31.16.95:1112",
-			"Node3": "172.31.22.141:1113",
-			"Node4": "172.31.27.90:1114",
+			"Node1": "18.223.169.70:1111",
+			"Node2": "18.223.169.70:1112",
+			"Node3": "18.220.162.107:1113",
+			"Node4": "18.188.155.81:1114",
 		},
 		View: &View{
 			ID:      viewID,
